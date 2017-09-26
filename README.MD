@@ -6,7 +6,9 @@ HOW TO RUN
 3. ./fbc localhost portnum <username>    /*start your client*/
 
     ////////////////////////////////////////////////////
+    
     PLEASE DO NOT INCLUDE SPACE OR '~' IN YOUR USERNAME
+    
     ///////////////////////////////////////////////////
     
 4. Command mode 
@@ -16,9 +18,12 @@ HOW TO RUN
    CHAT -> INTO Chat Mode
    
    /////////////////////////////////////////////////////
+   
    PLEASE DO NOT SHUTDOWN CLIENT IN COMMAND MODE.
    OTHERWISE YOU MAY NEED RESTART SERVER TO LOG IN AGAIN
+   
    //////////////////////////////////////////////////////
+   
    
 5.CHATMODE
 Enter everything you want
